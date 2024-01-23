@@ -1,0 +1,2 @@
+Designed and developed a visually appealing cake selling website. Implemented a responsive layout with Bootstrap's grid system, showcased various cakes through Bootstrap cards, and enhanced user experience with a navigation bar. Incorporated a contact form for inquiries and ensured cross-browser compatibility for a seamless online experience.
+Technologies used: HTML, CSS and javaScript and Bootstrap
